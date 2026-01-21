@@ -1,5 +1,5 @@
 # retailer-notebook-streamlit
-Curated and cleaned Zara dataset from kaggle and produced a streamlit dashboard using it.
+Curated and cleaned retailer dataset from kaggle and produced a streamlit dashboard using it.
 
 ##Analyzed:
 - Identified best selling days
